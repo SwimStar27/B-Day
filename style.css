@@ -1,0 +1,14 @@
+.body_backgorund 
+{
+    background-image:url("https://thekitchencommunity.org/wp-content/uploads/2021/10/birthday-cake-shutterstock_1766866313-1200x675.jpg");
+    background-repeat:no-repeat;
+    width:700px;
+    height:875px;
+    background-size: cover;
+    background-color: cyan;
+}
+#myCanvas
+{
+   background: darkblue;
+}
+
